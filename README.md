@@ -1,10 +1,7 @@
 # 💫 About Me:
  I am a passionate and skilled Full Stack Developer, constantly exploring new technologies and crafting innovative solutions to real-world challenges. With a keen eye for detail and a strong foundation in both frontend and backend development, I take pride in building robust, user-friendly web applications.
 
-
-![banner](https://i.ibb.co/mJ79WXZ/test-test.jpg)
-
-
+<img src="https://i.ibb.co/qDhsjYk/test-test.jpg" alt="intro" width="100%" srcset="https://i.ibb.co/qDhsjYk/test-test.jpg">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/athul_k_suresh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/athul_k_suresh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athul_k_suresh) 
